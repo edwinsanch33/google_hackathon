@@ -1,0 +1,20 @@
+
+.google {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* flex-direction: column; */
+    font-family: 'Roboto', 'sans-serif';
+}
+.g, .gg {
+    color: blue;
+}
+.o, .e {
+color: red;
+}
+.oo {
+    color: yellow;
+}
+.l {
+    color: green;
+}

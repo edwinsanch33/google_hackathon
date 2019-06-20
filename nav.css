@@ -1,0 +1,39 @@
+* {
+    /* outline-color: red;
+    outline-style: solid;
+    outline-width: .1rem; */
+    text-decoration: none;
+    margin: 0;
+}
+.topnavl {
+    display: inline-flex;
+    justify-content: flex-start;
+ }
+
+ .topnavr {
+     display: inline-flex;
+     align-items: flex-end;
+ }
+
+
+.container, .bottom {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+a {
+    color: rgb(68, 66, 66);
+    transition: 0.4s;
+
+}
+
+a:hover {
+    color: gray;
+}
+
+.bottom {
+    background-color: rgb(173, 173, 173);
+}
+

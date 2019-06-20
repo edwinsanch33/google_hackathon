@@ -1,0 +1,21 @@
+
+
+.search_area {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.search_bar, .buttons {
+    display: flex;
+    justify-content: center;
+    border-radius: 3rem;
+}
+
+.search_bar {
+    
+}
+
+.buttons {
+    
+}
